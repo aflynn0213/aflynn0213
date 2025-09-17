@@ -12,7 +12,22 @@ Software Engineer in the aerospace industry since 2019 with experience on severa
  
 
 ## ⚙️ Tech & tools
-
+<p>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" width="28" alt="Python" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="28" alt="C" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cplusplus.svg" width="28" alt="C++" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/csharp.svg" width="28" alt="C#" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" width="28" alt="PostgreSQL" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" width="28" alt="MySQL" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/docker.svg" width="28" alt="Docker" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kubernetes.svg" width="28" alt="Kubernetes" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlecloud.svg" width="28" alt="GCP" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg" width="28" alt="Java" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" width="28" alt="ROS" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/matlab.svg" width="28" alt="MATLAB" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/simulink.svg" width="28" alt="Simulink" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/redhat.svg" width="28" alt="RHEL" />&nbsp;
+</p>
 
 ## 📫 Contact
 - Email: aflynn0521@gmail.com  
