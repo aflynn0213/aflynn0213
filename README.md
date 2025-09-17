@@ -2,7 +2,7 @@
 
 Software Engineer in the aerospace industry since 2019 with experience on several programs including avionics simulation, vehicle management systems, and mission management systems.  Particular domains within each of these programs that I've specialized in is digital communication (Link-16), digital signal processing, sensor fusion, electronic warfare, identify friend or foe (IFF), inertial navigation systems/global position system (INS/GPS), and flight control systems.
 
-## 🔭 Education
+## 🎓 Education
 ### M.S. in Engineering Data Analytics & Statistics (Washington University in Saint Louis) 
 - [WashU](https://www.usnews.com/best-colleges/washington-university-in-st-louis-2520)
 - Coursework: Probability and Stochastic Processes, Kalman Filtering, Optimization, Linear Dynamic Systems, Introduction to Machine Learning, Graduate Machine Learning, Artificial Intelligence, Detection and Estimation Theory, Mathematics of Modern Engineering, Data Science Capstone.
