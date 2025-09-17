@@ -12,22 +12,25 @@ Software Engineer in the aerospace industry since 2019 with experience on severa
  
 
 ## ⚙️ Tech & tools
-<p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" width="28" alt="Python" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="28" alt="C" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cplusplus.svg" width="28" alt="C++" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/csharp.svg" width="28" alt="C#" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" width="28" alt="PostgreSQL" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" width="28" alt="MySQL" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/docker.svg" width="28" alt="Docker" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kubernetes.svg" width="28" alt="Kubernetes" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlecloud.svg" width="28" alt="GCP" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg" width="28" alt="Java" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" width="28" alt="ROS" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/matlab.svg" width="28" alt="MATLAB" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/simulink.svg" width="28" alt="Simulink" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/redhat.svg" width="28" alt="RHEL" />&nbsp;
-</p>
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
+![GCP](https://img.shields.io/badge/-GCP-F53803?logo=googlecloud&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/-Jenkins-DAA520?logo=jenkins&logoColor=white&style=for-the-badge)
+![ROS](https://img.shields.io/badge/-ROS-CC0000?logo=ros&logoColor=white&style=for-the-badge)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white&style=for-the-badge)
+![Simulink](https://img.shields.io/badge/-Simulink-0f4c81?style=for-the-badge)
+![RHEL](https://img.shields.io/badge/-RHEL-cc0000?logo=redhat&logoColor=white&style=for-the-badge)
+![ROS](https://img.shields.io/badge/-ROS-CC0000?logo=ros&logoColor=white&style=for-the-badge)
+
+
 
 ## 📫 Contact
 - Email: aflynn0521@gmail.com  
