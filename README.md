@@ -2,6 +2,8 @@
 
 Software Engineer in the aerospace industry since 2019 with experience on several programs including avionics simulation, vehicle management systems, and mission management systems.  Particular domains within each of these programs that I've specialized in is digital communication (Link-16), digital signal processing, sensor fusion, electronic warfare, identify friend or foe (IFF), inertial navigation systems/global position system (INS/GPS), and flight control systems.
 
+In addition to software developement responsibilities, I have experience in the Full Software Developement Lifecycle in an AGILE environment, including requirements engineering, creation of design artifacts, hardware/software integration, unit and component automated test developement, human-in-the-loop and hardware-in-the-loop testing, continuous integration and continuous deployment (Jenkins) for both testing infrastructure and production software, and user interface and tool developement. 
+
 ## 🎓 Education
 ### M.S. in Engineering Data Analytics & Statistics (Washington University in Saint Louis) 
 - [WashU](https://www.usnews.com/best-colleges/washington-university-in-st-louis-2520)
