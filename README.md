@@ -24,7 +24,6 @@ Software Engineer in the aerospace industry since 2019 with experience on severa
 ![GCP](https://img.shields.io/badge/-GCP-F53803?logo=googlecloud&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-DAA520?logo=jenkins&logoColor=white&style=for-the-badge)
-![ROS](https://img.shields.io/badge/-ROS-CC0000?logo=ros&logoColor=white&style=for-the-badge)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white&style=for-the-badge)
 ![Simulink](https://img.shields.io/badge/-Simulink-0f4c81?style=for-the-badge)
 ![RHEL](https://img.shields.io/badge/-RHEL-cc0000?logo=redhat&logoColor=white&style=for-the-badge)
